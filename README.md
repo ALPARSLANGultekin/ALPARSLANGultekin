@@ -1,18 +1,18 @@
-# Hi, I'm Alparslan 👋!
+# Hi, I'm Gültekin! 👋
 
-*Yapay zeka ve veri bilimi alanında uzmanlaşan bir Bilgisayar Mühendisi.*
+*A Computer Engineer specializing in Artificial Intelligence and Data Science.*
 
-🎓 **Atatürk Üniversitesi** Bilgisayar Mühendisliği mezunu | Yapay Zeka (YL) Öğrencisi
+🎓 **Atatürk University** BSc in Computer Engineering | MSc Student in AI
 
 ---
 
 ### 💻 About Me
 
-* 🎓 Atatürk Üniversitesi Bilgisayar Mühendisliği lisans mezunuyum.
-* 🤖 Erzurum Teknik Üniversitesi'nde Yapay Zeka üzerine yüksek lisans eğitimime devam ediyorum.
-* 💡 Temel çalışma alanlarım: Makine öğrenmesi, derin öğrenme (CNN), sinyal işleme (EEG ve RF) ve oyun geliştirme.
-* 🌍 Akademik araştırmalarımı pratik yazılımlara (masaüstü, web, mobil) dönüştürmeyi seviyorum.
-* 🔬 Şu anda PhysioNet/DEAP veri setleriyle EEG sinyal işleme üzerine makale hazırlıyor ve "Sugarnaut" isimli mobil oyunumu geliştiriyorum.
+* 🎓 I hold a Bachelor's degree in Computer Engineering from Atatürk University.
+* 🤖 I am currently pursuing my Master's degree in Artificial Intelligence at Erzurum Technical University.
+* 💡 My main areas of interest include Machine Learning, Deep Learning (CNN), Signal Processing (EEG and RF), and Game Development.
+* 🌍 I enjoy transforming academic research into practical software solutions (desktop, web, and mobile).
+* 🔬 Currently, I am writing an academic paper on EEG signal processing using PhysioNet/DEAP datasets and developing my mobile puzzle game called "Sugarnaut".
 
 ---
 
@@ -42,11 +42,11 @@
 
 ### 🏆 Projects
 
-* 🧠 **Brain Tumor Detector:** Derin öğrenme (CNN) ile MR görüntülerinden beyin tümörü teşhisi yapan sistem (Masaüstü, Web, Mobil).
-* 📈 **EEG Sinyal İşleme & Sınıflandırma:** PhysioNet ve DEAP veri setleri üzerinde derin öğrenme modelleriyle (EEGNet vb.) analiz.
-* 📻 **HackRF One Spektrum Analizi:** Python ve HackRF One kullanılarak belirli frekans aralıklarında dinleme ve dB anomali tespiti.
-* 🎮 **Sugarnaut (Mobil Oyun):** Uçtan uca mekanik, seviye tasarımı ve hata ayıklama süreçleri yönetilen mobil bulmaca oyunu.
-* 💊 **İlaç Tahmin Sistemi:** Kaggle veri seti kullanılarak yaş, cinsiyet ve kan değerlerine göre makine öğrenmesi ile ilaç tahmini.
+* 🧠 **Brain Tumor Detector:** A deep learning (CNN) based system for detecting brain tumors from MRI scans, integrated into Desktop, Web (Streamlit), and Mobile applications.
+* 📈 **EEG Signal Processing & Classification:** Analyzing PhysioNet and DEAP datasets using deep learning models (such as EEGNet) for signal classification.
+* 📻 **HackRF One Spectrum Analysis:** A Python-based project utilizing HackRF One to listen to specific frequency ranges and detect dB anomalies.
+* 🎮 **Sugarnaut (Mobile Game):** An end-to-end mobile puzzle game development process involving mechanics, level design, and debugging.
+* 💊 **Drug Prediction System:** A machine learning model predicting the appropriate medication based on age, gender, and blood metrics using a Kaggle dataset.
 
 ---
 

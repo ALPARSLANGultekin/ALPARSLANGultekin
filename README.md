@@ -45,8 +45,8 @@
 
 ### 🏆 Projects
 
-* 🧠 **Brain Tumor Detector:** A deep learning (CNN) based system for detecting brain tumors from MRI scans, integrated into Desktop, Web (Streamlit), and Mobile applications.
 * 📈 **EEG Signal Processing & Classification:** Analyzing PhysioNet and DEAP datasets using deep learning models (such as EEGNet) for signal classification.
+* 🧠 **Brain Tumor Detector:** A deep learning (CNN) based system for detecting brain tumors from MRI scans, integrated into Desktop, Web (Streamlit), and Mobile applications.
 * 📻 **HackRF One Spectrum Analysis:** A Python-based project utilizing HackRF One to listen to specific frequency ranges and detect dB anomalies.
 * 🎮 **Sugarnaut (Mobile Game):** An end-to-end mobile puzzle game development process involving mechanics, level design, and debugging.
 * 💊 **Drug Prediction System:** A machine learning model predicting the appropriate medication based on age, gender, and blood metrics using a Kaggle dataset.

@@ -1,4 +1,4 @@
-# Merhaba, Ben Alparslan! 👋
+# Merhaba, Ben Gültekin! 👋
 
 Yapay zeka ve veri bilimi alanında uzmanlaşan bir Bilgisayar Mühendisiyim.
 
@@ -25,7 +25,7 @@ Yapay zeka ve veri bilimi alanında uzmanlaşan bir Bilgisayar Mühendisiyim.
 
 ### 📊 GitHub İstatistikleri
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALPARSLANGultekin&show_icons=true&theme=radium&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALPARSLANGultekin&show_icons=true&theme=radium&count_private=true&v=1)
 
 ### 📫 İletişim
 

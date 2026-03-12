@@ -23,9 +23,17 @@ Yapay zeka ve veri bilimi alanında uzmanlaşan bir Bilgisayar Mühendisiyim.
 * **Sugarnaut (Mobil Oyun):** Uçtan uca mekanik, seviye tasarımı ve hata ayıklama süreçleri yönetilen mobil bulmaca oyunu.
 * **İlaç Tahmin Sistemi:** Kaggle veri seti kullanılarak yaş, cinsiyet ve kan değerlerine göre makine öğrenmesi ile ilaç tahmini.
 
+### 🏆 GitHub Kupaları
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ALPARSLANGultekin&theme=radium&margin-w=15&margin-h=15&no-frame=true" alt="ALPARSLANGultekin Trophies" />
+</p>
+
 ### 📊 GitHub İstatistikleri
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ALPARSLANGultekin&theme=radium)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ALPARSLANGultekin&show_icons=true&theme=radium&count_private=true" alt="GitHub Stats" />
+</p>
 
 ### 📫 İletişim
 

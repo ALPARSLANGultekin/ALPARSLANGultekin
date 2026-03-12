@@ -25,9 +25,7 @@ Yapay zeka ve veri bilimi alanında uzmanlaşan bir Bilgisayar Mühendisiyim.
 
 ### 📊 GitHub İstatistikleri
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ALPARSLANGultekin&show_icons=true&theme=radium" alt="GitHub Stats" width="60%" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALPARSLANGultekin&show_icons=true&theme=radium&count_private=true)
 
 ### 📫 İletişim
 

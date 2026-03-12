@@ -60,7 +60,7 @@
 ### 📊 GitHub Stats
 
 [![stats](https://github-readme-stats.vercel.app/api?username=ALPARSLANGultekin&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALPARSLANGultekin&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALPARSLANGultekin&layout=compact&theme=radical&v=1)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

@@ -1,52 +1,70 @@
-# Merhaba, Ben Gültekin! 👋
+# Hi, I'm Alparslan 👋!
 
-Yapay zeka ve veri bilimi alanında uzmanlaşan bir Bilgisayar Mühendisiyim.
+*Yapay zeka ve veri bilimi alanında uzmanlaşan bir Bilgisayar Mühendisi.*
 
-Şu anda Yapay Zeka üzerine yüksek lisans eğitimime devam ediyorum. Temel çalışma alanlarım arasında makine öğrenmesi, derin öğrenme (CNN), sinyal işleme (EEG ve RF spektrum analizi) ve mobil oyun geliştirme bulunuyor. Teorik akademik araştırmalarımı pratik yazılım projelerine (masaüstü, web, mobil) dönüştürmeyi ve kullanıcı odaklı çözümler üretmeyi seviyorum.
+🎓 **Atatürk Üniversitesi** Bilgisayar Mühendisliği mezunu | Yapay Zeka (YL) Öğrencisi
 
-### 🛠️ Kullandığım Teknolojiler
+---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-</p>
+### 💻 About Me
 
-### 🚀 Öne Çıkan Projelerim
+* 🎓 Atatürk Üniversitesi Bilgisayar Mühendisliği lisans mezunuyum.
+* 🤖 Erzurum Teknik Üniversitesi'nde Yapay Zeka üzerine yüksek lisans eğitimime devam ediyorum.
+* 💡 Temel çalışma alanlarım: Makine öğrenmesi, derin öğrenme (CNN), sinyal işleme (EEG ve RF) ve oyun geliştirme.
+* 🌍 Akademik araştırmalarımı pratik yazılımlara (masaüstü, web, mobil) dönüştürmeyi seviyorum.
+* 🔬 Şu anda PhysioNet/DEAP veri setleriyle EEG sinyal işleme üzerine makale hazırlıyor ve "Sugarnaut" isimli mobil oyunumu geliştiriyorum.
 
-* **Brain Tumor Detector:** Derin öğrenme (CNN) ile MR görüntülerinden beyin tümörü teşhisi yapan sistem. Masaüstü, Streamlit web ve mobil uygulama entegrasyonu.
-* **EEG Sinyal İşleme & Sınıflandırma:** PhysioNet ve DEAP veri setleri üzerinde derin öğrenme modelleriyle (EEGNet vb.) analiz ve makale çalışmaları.
-* **HackRF One Spektrum Analizi:** Python ve HackRF One kullanılarak belirli frekans aralıklarında dinleme ve dB anomali tespiti.
-* **Sugarnaut (Mobil Oyun):** Uçtan uca mekanik, seviye tasarımı ve hata ayıklama süreçleri yönetilen mobil bulmaca oyunu.
-* **İlaç Tahmin Sistemi:** Kaggle veri seti kullanılarak yaş, cinsiyet ve kan değerlerine göre makine öğrenmesi ile ilaç tahmini.
+---
 
-### 🏆 GitHub Kupaları
+### ⚙️ Tech Stack
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ALPARSLANGultekin&theme=radium&margin-w=15&margin-h=15&no-frame=true" alt="ALPARSLANGultekin Trophies" />
-</p>
-
-### 📊 GitHub İstatistikleri
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ALPARSLANGultekin&show_icons=true&theme=radium&count_private=true" alt="GitHub Stats" />
-</p>
-
-### 📫 İletişim
+#### 💻 Programming Languages
 
 <p align="left">
-  <a href="mailto:tekinalparslan2534@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/gültekin-alparslan-45142723a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
-<br>
-<p align="center">
-  <i>"There is always a way."</i>
+#### ⚙️ Tools & Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle" />
 </p>
+
+---
+
+### 🏆 Projects
+
+* 🧠 **Brain Tumor Detector:** Derin öğrenme (CNN) ile MR görüntülerinden beyin tümörü teşhisi yapan sistem (Masaüstü, Web, Mobil).
+* 📈 **EEG Sinyal İşleme & Sınıflandırma:** PhysioNet ve DEAP veri setleri üzerinde derin öğrenme modelleriyle (EEGNet vb.) analiz.
+* 📻 **HackRF One Spektrum Analizi:** Python ve HackRF One kullanılarak belirli frekans aralıklarında dinleme ve dB anomali tespiti.
+* 🎮 **Sugarnaut (Mobil Oyun):** Uçtan uca mekanik, seviye tasarımı ve hata ayıklama süreçleri yönetilen mobil bulmaca oyunu.
+* 💊 **İlaç Tahmin Sistemi:** Kaggle veri seti kullanılarak yaş, cinsiyet ve kan değerlerine göre makine öğrenmesi ile ilaç tahmini.
+
+---
+
+### 📫 Let's Connect
+
+* 📩 Email: [tekinalparslan2534@gmail.com](mailto:tekinalparslan2534@gmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/gültekin-alparslan-45142723a/)
+
+---
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ALPARSLANGultekin&theme=radical&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📊 GitHub Stats
+
+[![stats](https://github-readme-stats.vercel.app/api?username=ALPARSLANGultekin&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALPARSLANGultekin&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+🚀 *There is always a way.*

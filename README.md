@@ -30,6 +30,9 @@
 #### ⚙️ Tools & Technologies
 
 <p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle" />
@@ -53,12 +56,6 @@
 * 💼 [LinkedIn](https://www.linkedin.com/in/gültekin-alparslan-45142723a/)
 
 ---
-
-### 🏆 GitHub Trophies
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=ALPARSLANGultekin&theme=radical&column=4&margin-w=15&margin-h=15" alt="trophy" />
-</a>
 
 ### 📊 GitHub Stats
 
